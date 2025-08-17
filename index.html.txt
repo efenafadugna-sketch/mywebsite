@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>my saving</title>
+<meta name="my saving" content="style=1px">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://i.postimg.cc/HLFJQgb0/Koala.jpg">
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: inherit;
+  border-radius:3px;
+}
+body {
+  background-color:rgb(10,40,50);
+}  
+th, td {
+  padding: 5px;
+  text-align: left;
+  color:rgb(0,100,45);
+}
+th {
+  color:blue;
+  text-decoration:underline;
+}
+caption {
+  color:yellow;
+  text-decoration:underline;
+}
+h2 {
+  text-align:center;
+  text-decoration:underline;
+  color:tomato;
+  font-family:cursive;
+}  
+p {
+  font-family:verdana;
+}  
+</style>
+</head>
+<body>
+<h2>Saving program</h2>
+<p>- Efas saving program.</p>
+
+<table style="width:90%">
+  <caption>Monthly savings</caption>
+  <tr>
+    <th>Month</th>
+    <th style="width:30%;">Savings</th>
+  </tr>
+  <tr>
+    <td>January/መስከረም</td>
+    <td>900birr</td>
+  </tr>
+  <tr>
+    <td>February/ጥቅምት</td>
+    <td>800birr</td>
+  </tr>
+    <tr>
+    <td>March/ህዳር</td>
+    <td>800birr</td>
+  </tr>
+    <tr>
+    <td>April/ታህሳስ</td>
+    <td>900birr</td>
+  </tr>
+    <tr>
+    <td>May/ጥር</td>
+    <td>800birr</td>
+  </tr>
+    <tr>
+    <td>June/የካቲት</td>
+    <td>900birr</td>
+  </tr>
+    <tr>
+    <td>July/መጋቢት</td>
+    <td>800birr</td>
+  </tr>
+    <tr>
+    <td>August/ሚያዝያ</td>
+    <td>800birr</td>
+  </tr>
+    <tr>
+    <td>September/ግንቦት</td>
+    <td>900birr</td>
+  </tr>
+    <tr>
+    <td>October/ሰኔ</td>
+    <td>900birr</td>
+  </tr>
+  <tr>
+    <td>total</td>
+    <td>8500</td>
+  </tr>
+ <tr>
+    <td>sum with previos ballance</td>
+    <td style="color:red">11,000</td>
+</table>
+
+</body>
+</html>
